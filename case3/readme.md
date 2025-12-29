@@ -144,7 +144,7 @@ In addition, we want to see how the LLM planner agent is performing, for this yo
 
 ## Report Requirements
 
-Submit a short report (PDF, max ~4 pages) that includes:
+Submit a short report (PDF, max ~6 pages) that includes:
 
 * System architecture overview with an explanation of the baseline in your own words
 * Answer to the questions of Step 3 (see above)
