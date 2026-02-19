@@ -71,7 +71,7 @@ def draw_polysemantic_plot():
             verticalalignment='top', bbox=bbox_props, linespacing=1.5)
 
     plt.tight_layout()
-    plt.savefig('polysemanticity_concept_plot.png')
+    plt.savefig('polysemanticity_concept_plot.pdf')
     plt.show()
 
 draw_polysemantic_plot()
